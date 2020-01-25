@@ -1,0 +1,26 @@
+* {
+    font-family: 'Muli', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* h1 {
+    background-color: green;
+} */
+
+h2 {
+    background-color: red;
+}
+
+.section-title {
+    color: #2ddf5c;
+}
+
+#product-overview h1 {
+    font-weight: 500px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: Muli;
+}
