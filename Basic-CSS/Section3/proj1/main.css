@@ -33,14 +33,22 @@ body {
     padding: 8px 16px;
 }
 
+.main-header__brand {
+    text-decoration: none;
+    color: #0e4f1f;
+    font-weight: 700;
+}
+
 .main-header > div {
     display: inline-block;
+    vertical-align: middle;
 }
 
 .main-nav {
     display: inline-block;
     text-align: right;
     width: calc(100% - 55px);
+    vertical-align: middle;
 }
 
 .main-nav__items {
