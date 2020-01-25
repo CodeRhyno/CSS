@@ -1,0 +1,13 @@
+* {
+    font-family: 'Muli', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    background-color: green;
+}
+
+h2 {
+    background-color: red;
+}
