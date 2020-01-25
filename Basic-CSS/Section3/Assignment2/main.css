@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+
+.box-container-1 {
+    border: 2px solid black;
+    background: #ff1b68;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    margin: 5px 20px;
+    height: 300px;
+    widows: 50%;
+    display: inline-block;
+    /* display: none; */
+}
+
+.box-container-2 {
+    border: 2px solid black;
+    background: #ff1b68;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    margin: 5px 20px;
+    display: inline-block;
+}
+
+.box-container-2:hover {
+    background: #ffffff;
+    color: #ff1b68;
+    cursor: pointer;
+}
